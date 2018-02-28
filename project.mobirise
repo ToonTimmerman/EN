@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Portfolio1819 ENG",
+    "name": "Portfolio1819 ENG-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,9 +36,9 @@
     "uniqCompNum": 35,
     "versionPublish": "4.4.1",
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111201804-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111201804-1');\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-111409677-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-111409677-1');\r\n</script>",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
